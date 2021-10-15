@@ -1,4 +1,4 @@
-- [ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/DebasisPaul/aspnetcore)
+- [ASP.NET Core || ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/DebasisPaul/aspnetcore)
 - [Microsoft ASPNET Core Workshop- Demian Edwards](https://github.com/DebasisPaul/aspnetcore-workshop)
 - [Microsoft Virtual Academy MVA- LadyNaggaga](https://github.com/DebasisPaul/ASP.NETCoreMVA)
 - [ASP.NET Core for Beginners - Workshop - Scott Hanselman](https://github.com/DebasisPaul/aspnetcore-for-beginners)
