@@ -1,3 +1,3 @@
 - [Microsoft ASPNET Core Workshop- Demian Edwards](https://github.com/DebasisPaul/aspnetcore-workshop)
 - [Microsoft Virtual Academy MVA- LadyNaggaga](https://github.com/DebasisPaul/ASP.NETCoreMVA)
-- [ASP.NET Core for Beginners - Workshop](https://github.com/DebasisPaul/aspnetcore-for-beginners)
+- [ASP.NET Core for Beginners - Workshop - Scott Hanselman](https://github.com/DebasisPaul/aspnetcore-for-beginners)
