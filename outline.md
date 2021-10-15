@@ -1,1 +1,2 @@
-https://github.com/DebasisPaul/aspnetcore-workshop
+[Microsoft ASPNET Core Workshop- Demian Edwards](https://github.com/DebasisPaul/aspnetcore-workshop)
+[Microsoft Virtual Academy MVA- LadyNaggaga](https://github.com/DebasisPaul/ASP.NETCoreMVA)
