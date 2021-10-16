@@ -21,18 +21,18 @@
 - [Tutorial - Enable your Web Apps to sign-in users and call APIs with the Microsoft identity platform for developers](https://github.com/DebasisPaul/active-directory-aspnetcore-webapp-openidconnect-v2)
 - [ASP.NET Core Diagnostic Scenarios](https://github.com/DebasisPaul/AspNetCoreDiagnosticScenarios)
 - [Announcements](https://github.com/DebasisPaul/Announcements)
-- 
+<hr>
 
 - [LEARNING PATHS ASP.NET Core || PlurlSight](https://www.pluralsight.com/paths/aspnet-core)
 - - [ASP.NET Core MVC Tutorial for Beginners](https://www.pragimtech.com/courses/asp-net-core-mvc-tutorial-for-beginners/)
 - [Introduction to ASP.NET Core Framework](https://dotnettutorials.net/lesson/introduction-to-asp-net-core/)
 - [ASP.NET Core Tutorials](https://www.tutorialsteacher.com/core)
-- - [ASP.NET Interview Questions](https://www.javatpoint.com/asp-dot-net-interview-questions)
+- [ASP.NET Interview Questions](https://www.javatpoint.com/asp-dot-net-interview-questions)
 - [Basic ASP.NET Interview Questions](https://www.interviewbit.com/asp-net-interview-questions)
 - [Top 30+ ASP.NET Interview Questions and Answers](https://www.dotnettricks.com/learn/aspnet/top-20-aspnet-interview-questions-and-answers)
 - [50 ASP.NET Interview Questions and Answers (PDF) in 2021](https://www.guru99.com/asp-net-interview-questions-answers.html)
 - [ASP and ASP.NET Tutorials](https://www.w3schools.com/asp/default.asp)
-
+<hr>
 
 ASP.NET Resources
 - [Learn ASP.NET](https://dotnet.microsoft.com/learn/aspnet)
