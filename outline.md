@@ -22,3 +22,35 @@
 - [ASP.NET Core Diagnostic Scenarios](https://github.com/DebasisPaul/AspNetCoreDiagnosticScenarios)
 - [Announcements](https://github.com/DebasisPaul/Announcements)
 - 
+
+- [LEARNING PATHS ASP.NET Core || PlurlSight](https://www.pluralsight.com/paths/aspnet-core)
+- - [ASP.NET Core MVC Tutorial for Beginners](https://www.pragimtech.com/courses/asp-net-core-mvc-tutorial-for-beginners/)
+- [Introduction to ASP.NET Core Framework](https://dotnettutorials.net/lesson/introduction-to-asp-net-core/)
+- [ASP.NET Core Tutorials](https://www.tutorialsteacher.com/core)
+- - [ASP.NET Interview Questions](https://www.javatpoint.com/asp-dot-net-interview-questions)
+- [Basic ASP.NET Interview Questions](https://www.interviewbit.com/asp-net-interview-questions)
+- [Top 30+ ASP.NET Interview Questions and Answers](https://www.dotnettricks.com/learn/aspnet/top-20-aspnet-interview-questions-and-answers)
+- [50 ASP.NET Interview Questions and Answers (PDF) in 2021](https://www.guru99.com/asp-net-interview-questions-answers.html)
+- [ASP and ASP.NET Tutorials](https://www.w3schools.com/asp/default.asp)
+
+
+ASP.NET Resources
+- [Learn ASP.NET](https://dotnet.microsoft.com/learn/aspnet)
+- [Gitter ASP.NET](https://gitter.im/aspnet/Home)
+- [ASP.NET Community Blogs](https://weblogs.asp.net/)
+- [Support lifecycle for ASP.NET web stack](https://docs.microsoft.com/en-us/troubleshoot/aspnet/support-lifecycle-web-stack?WT.mc_id=dotnet-35129-website)
+- [ASP.NET documentation](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
+- [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
+- [ASP.NET Support Policy](https://dotnet.microsoft.com/platform/support/policy/aspnet)
+- [ASP.NET Blog](https://devblogs.microsoft.com/aspnet/)
+- [ASP.NET || Github](https://github.com/aspnet)
+- [ASP.NET Core 101](https://channel9.msdn.com/Series/CSharp-101/?WT.mc_id=dotnet-22477-jasingl)
+- [Tutorial: Create a Razor Pages web app with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-6.0)
+- [Get started with ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
+- [Migrating ASP.NET MVC Applications to Windows Containers](https://docs.microsoft.com/en-us/aspnet/mvc/overview/deployment/docker-aspnetmvc)
+- [ASP.NET Core Blazor supported platforms](https://docs.microsoft.com/en-us/aspnet/core/blazor/supported-platforms?view=aspnetcore-5.0)
+
+<hr>
+
+- [Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
+- [Entity Framework || Github](https://github.com/dotnet/efcore)
