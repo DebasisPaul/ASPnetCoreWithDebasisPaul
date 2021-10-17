@@ -50,7 +50,9 @@ ASP.NET Resources
 - [Migrating ASP.NET MVC Applications to Windows Containers](https://docs.microsoft.com/en-us/aspnet/mvc/overview/deployment/docker-aspnetmvc)
 - [ASP.NET Core Blazor supported platforms](https://docs.microsoft.com/en-us/aspnet/core/blazor/supported-platforms?view=aspnetcore-5.0)
 
-<hr>
+---
 
 - [Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
 - [Entity Framework || Github](https://github.com/dotnet/efcore)
+
+## Udemy BhrugenPatel .NetMastery WebPage [Link](https://www.dotnetmastery.com/)
