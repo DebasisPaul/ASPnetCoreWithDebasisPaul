@@ -1,0 +1,24 @@
+## PATHS
+> ASP.NET Core Authors: Scott Allen, Gill Cleeren, Eric Fisher, Shawn Wildermuth, Steve Gordon, Erik Dahl, Alex Wolf, Roland Guijt, Peter Kellner, Rag Dhiman
+
+ASP.NET Core is Microsoft's modern, cross-platform framework for building web applications and web APIs. In this path, you will learn everything you need to know about building ASP.NET Core applications, from building web applications with Razor to creating APIs.
+
+## RELATED TOPICS
+- C#
+- HTML 
+- .NET
+- web developer
+- Entity Framework Core
+
+## What you will learn
+- Creating applications with Razor Pages
+- Creating applications using the MVC Framework
+- Building APIs with ASP.NET Core
+- Using ASP.NET Core's built-in dependency injection framework
+- Creating reusable components using Tag Helpers
+- How to secure your ASP.NET Core applications
+- Different authentication strategies available for your application
+- Using SignalR to build real-time communication into your apps
+
+## Pre-requisites
+Basic web development skills and familiarity with the C# language
