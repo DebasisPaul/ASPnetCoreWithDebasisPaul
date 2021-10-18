@@ -68,10 +68,5 @@ Before diving into ASP.NET Core, you should be comfortable with C# programming, 
 About the author
 Scott has over 15 years of experience in commercial software development and is a frequent speaker at national conferences, and local user groups. Scott is a Microsoft MVP and has authored books on several Microsoft technologies, including ASP.NET, C#, and Windows Workflow.
 
-> MORE FROM THE AUTHOR
-ASP.NET MVC 5 FundamentalsBeginner5h 45mAug 29, 2019
-Migrating Applications and Services to Azure with Visual Studio 2019Intermediate2h 21mJun 4, 2019
-More courses by Scott Allen
-Section Introduction Transcripts
-Course Overview
-Hi. This is Scott Allen, and this is my ASP.NET Core Fundamentals course. ASP.NET Core is the latest web framework from Microsoft, and it's engineered to be fast, easy, and work across platforms. In this course, we'll build an application from scratch and see how to work with ASP.NET and databases to build a website of restaurant information. During the course, you'll learn about Razor Pages and API controllers. We'll be using the Entity Framework and create and execute Entity Framework migrations. We'll also see how to integrate client‑side libraries into ASP.NET Core and learn some of the behind‑the‑scenes internals. Along the way, you might even hear a story about my childhood. By the end of the course, you'll be ready to build your own applications using ASP.NET Core. But before we begin, make sure you're comfortable with the C# language, HTML, and have some general experience at web programming.
+## Course Overview
+> Hi. This is Scott Allen, and this is my ASP.NET Core Fundamentals course. ASP.NET Core is the latest web framework from Microsoft, and it's engineered to be fast, easy, and work across platforms. In this course, we'll build an application from scratch and see how to work with ASP.NET and databases to build a website of restaurant information. During the course, you'll learn about Razor Pages and API controllers. We'll be using the Entity Framework and create and execute Entity Framework migrations. We'll also see how to integrate client‑side libraries into ASP.NET Core and learn some of the behind‑the‑scenes internals. Along the way, you might even hear a story about my childhood. By the end of the course, you'll be ready to build your own applications using ASP.NET Core. But before we begin, make sure you're comfortable with the C# language, HTML, and have some general experience at web programming.
