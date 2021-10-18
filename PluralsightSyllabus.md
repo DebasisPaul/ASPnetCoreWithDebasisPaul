@@ -71,11 +71,15 @@ Scott has over 15 years of experience in commercial software development and is 
 ## Course Overview
 > Hi. This is Scott Allen, and this is my ASP.NET Core Fundamentals course. ASP.NET Core is the latest web framework from Microsoft, and it's engineered to be fast, easy, and work across platforms. In this course, we'll build an application from scratch and see how to work with ASP.NET and databases to build a website of restaurant information. During the course, you'll learn about Razor Pages and API controllers. We'll be using the Entity Framework and create and execute Entity Framework migrations. We'll also see how to integrate client‑side libraries into ASP.NET Core and learn some of the behind‑the‑scenes internals. Along the way, you might even hear a story about my childhood. By the end of the course, you'll be ready to build your own applications using ASP.NET Core. But before we begin, make sure you're comfortable with the C# language, HTML, and have some general experience at web programming.
 
+> # .NET WEB PROJECT [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/DebasisPaul/eShopOnWeb)
+
 > Course Overview
 - Course Overview1m
 - Overview of the 3.0 Upgrade2m
 
-> Drilling into Data
+> [ASP.NET Core Developer Roadmap](https://github.com/DebasisPaul/AspNetCore-Developer-Roadmap)
+
+> [Drilling into Data](https://github.com/DebasisPaul/training-tutorials/blob/master/content/asp.net/getting-started/README.md)(https://github.com/DebasisPaul/WebCampTrainingKit)(https://github.com/DebasisPaul/practical-aspnetcore)(https://github.com/DebasisPaul/aspnetcore-concepts-workshop)
 - Introduction0m
 - Creating the New Project3m
 - Editing Razor Pages4m
