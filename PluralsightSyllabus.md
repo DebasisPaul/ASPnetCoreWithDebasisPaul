@@ -71,15 +71,21 @@ Scott has over 15 years of experience in commercial software development and is 
 ## Course Overview
 > Hi. This is Scott Allen, and this is my ASP.NET Core Fundamentals course. ASP.NET Core is the latest web framework from Microsoft, and it's engineered to be fast, easy, and work across platforms. In this course, we'll build an application from scratch and see how to work with ASP.NET and databases to build a website of restaurant information. During the course, you'll learn about Razor Pages and API controllers. We'll be using the Entity Framework and create and execute Entity Framework migrations. We'll also see how to integrate client‑side libraries into ASP.NET Core and learn some of the behind‑the‑scenes internals. Along the way, you might even hear a story about my childhood. By the end of the course, you'll be ready to build your own applications using ASP.NET Core. But before we begin, make sure you're comfortable with the C# language, HTML, and have some general experience at web programming.
 
-> # .NET WEB PROJECT [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/DebasisPaul/eShopOnWeb)
+> # READING
 
-> Course Overview
+---
+> .NET WEB PROJECT [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/DebasisPaul/eShopOnWeb)
+> [ASP.NET Core Developer Roadmap](https://github.com/DebasisPaul/AspNetCore-Developer-Roadmap)
+> (https://github.com/DebasisPaul/training-tutorials/blob/master/content/asp.net/getting-started/README.md
+> (https://github.com/DebasisPaul/WebCampTrainingKit)
+> (https://github.com/DebasisPaul/practical-aspnetcore)
+> (https://github.com/DebasisPaul/aspnetcore-concepts-workshop)
+
+> # Course Overview
 - Course Overview1m
 - Overview of the 3.0 Upgrade2m
 
-> [ASP.NET Core Developer Roadmap](https://github.com/DebasisPaul/AspNetCore-Developer-Roadmap)
-
-> [Drilling into Data](https://github.com/DebasisPaul/training-tutorials/blob/master/content/asp.net/getting-started/README.md)(https://github.com/DebasisPaul/WebCampTrainingKit)(https://github.com/DebasisPaul/practical-aspnetcore)(https://github.com/DebasisPaul/aspnetcore-concepts-workshop)
+> # Drilling into Data
 - Introduction0m
 - Creating the New Project3m
 - Editing Razor Pages4m
@@ -93,7 +99,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Displaying a Table of Restaurants2m
 - Summary1m
 
-> Working with Models and Model Binding
+> # Working with Models and Model Binding
 - Introduction0m
 - Working with HTML Forms3m
 - Building a Search Form2m
@@ -107,7 +113,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Handling Bad Requests4m
 - Summary0m
 
-> Editing Data with Razor Pages
+> # Editing Data with Razor Pages
 - Introduction0m
 - Creating the Restaurant Edit Page4m
 - Building an Edit Form with Tag Helpers9m
@@ -121,7 +127,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Confirming the Last Operation5m
 - Summary0m
 
-> Working with SQL Server and the Entity Framework Core
+> # Working with SQL Server and the Entity Framework Core
 - Introduction0m
 - Installing the Entity Framework3m
 - Implementing an Entity Framework DbContext2m
@@ -135,7 +141,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Modifying the Service Registration2m
 - Summary0m
 
-> Building the User Interface
+> # Building the User Interface
 - Introduction0m
 - Using Razor Layout Pages and Sections6m
 - Implementing a Delete Restaurant Page Model5m
@@ -148,7 +154,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Scaffolding a Complete Set of CRUD Pages3m
 - Summary0m
 
-> Integrating Client-side JavaScript and CSS
+> # Integrating Client-side JavaScript and CSS
 - Introduction1m
 - Serving Static Files and Content from wwwroot4m
 - Using ASP.NET Core Environments5m
@@ -162,7 +168,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Creating Sortable, Searchable Data Grids with DataTables5m
 - Summary1m
 
-> Working with the Internals of ASP.NET Core
+> # Working with the Internals of ASP.NET Core
 - Introduction1m
 - Exploring the Application Entry Point6m
 - Processing Summer Corn with the Allen Family6m
@@ -172,7 +178,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Configuring the App Using the Default Web Host Builder6m
 - Summary1m
 
-> Deploying ASP.NET Core Web Applications
+> # Deploying ASP.NET Core Web Applications
 - Introduction1m
 - Publishing Apps vs. Deploying Apps4m
 - Using dotnet publish5m
