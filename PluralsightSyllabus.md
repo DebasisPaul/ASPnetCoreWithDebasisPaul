@@ -39,7 +39,7 @@ Basic web development skills and familiarity with the C# language
 ASP.NET Core is a free, open-source web framework from Microsoft that offers high performance and cross-platform functonality for building web apps and services, mobile backends, and more.
 
 > What are the advantages of ASP.NET Core?
-- Some benefits of ASP.NET Core include:
+`Some benefits of ASP.NET Core include:`
 - It is an open-source framework
 - Easy to build cross-platform web apps
 - It requires less coding, meaning easier maintenance
@@ -50,7 +50,7 @@ ASP.NET Core is a free, open-source web framework from Microsoft that offers hig
 Any and everyone who wants to learn ASP.NET Core to build high-performing, cross-platform applications.
 
 > What will I learn in this course?
-This course will teach you the basics of ASP.NET Core, including:
+` This course will teach you the basics of ASP.NET Core, including:`
 - How to build an application with ASP.NET Core
 - How to work with a database
 - Entity Framework
