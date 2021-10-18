@@ -39,38 +39,36 @@ Basic web development skills and familiarity with the C# language
 ASP.NET Core is a free, open-source web framework from Microsoft that offers high performance and cross-platform functonality for building web apps and services, mobile backends, and more.
 
 > What are the advantages of ASP.NET Core?
-Some benefits of ASP.NET Core include:
+- Some benefits of ASP.NET Core include:
+- It is an open-source framework
+- Easy to build cross-platform web apps
+- It requires less coding, meaning easier maintenance
+- High performance
+- Easily testable
 
-> It is an open-source framework
-Easy to build cross-platform web apps
-It requires less coding, meaning easier maintenance
-High performance
-Easily testable
-Who is this course for?
+> Who is this course for?
 Any and everyone who wants to learn ASP.NET Core to build high-performing, cross-platform applications.
 
 > What will I learn in this course?
 This course will teach you the basics of ASP.NET Core, including:
+- How to build an application with ASP.NET Core
+- How to work with a database
+- Entity Framework
+- Middleware
+- View components
+- Database migrations
+- How to build an API controller
+- Client-side libraries
+- Much more
 
->How to build an application with ASP.NET Core
-How to work with a database
-Entity Framework
-
-Middleware
-View components
-Database migrations
-How to build an API controller
-Client-side libraries
-Much more
-Are there prerequisites to this course?
+> Are there prerequisites to this course?
 Before diving into ASP.NET Core, you should be comfortable with C# programming, HTML, and have some general experience at web programming.
 
-
-Scott Allen
+> Scott Allen
 About the author
 Scott has over 15 years of experience in commercial software development and is a frequent speaker at national conferences, and local user groups. Scott is a Microsoft MVP and has authored books on several Microsoft technologies, including ASP.NET, C#, and Windows Workflow.
 
-MORE FROM THE AUTHOR
+> MORE FROM THE AUTHOR
 ASP.NET MVC 5 FundamentalsBeginner5h 45mAug 29, 2019
 Migrating Applications and Services to Azure with Visual Studio 2019Intermediate2h 21mJun 4, 2019
 More courses by Scott Allen
