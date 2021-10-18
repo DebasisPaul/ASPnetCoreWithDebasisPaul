@@ -31,22 +31,17 @@ Basic web development skills and familiarity with the C# language
  # 1. ASP.NET Core Fundamentals By Scott Allen
 > This course shows you all the features you'll need to build your first application with ASP.NET Core.
 
-Course info
-Rating (697)
-LevelBeginner 
-UpdatedSep 27, 2019 
-Duration5h 44m 
-Description
-ASP.NET Core is the latest web framework from Microsoft, and is engineered to be fast, easy, and work across platforms. In this course, ASP.NET Core Fundamentals, you will build your first application with ASP.NET Core from scratch. First, you will learn how to work with a database to display and edit data. Then, you will explore middleware, view components, and database migrations with the Entity Framework. Finally, you will delve into building an API controller, and see how to work with client-side libraries. By the end of this course, you will have the skills and knowledge of ASP.NET Core needed to be productive in a typical business-oriented application.
+## Description
+> ASP.NET Core is the latest web framework from Microsoft, and is engineered to be fast, easy, and work across platforms. In this course, ASP.NET Core Fundamentals, you will build your first application with ASP.NET Core from scratch. First, you will learn how to work with a database to display and edit data. Then, you will explore middleware, view components, and database migrations with the Entity Framework. Finally, you will delve into building an API controller, and see how to work with client-side libraries. By the end of this course, you will have the skills and knowledge of ASP.NET Core needed to be productive in a typical business-oriented application.
 
-Course FAQ
-What is ASP.NET Core?
+## Course FAQ
+> What is ASP.NET Core?
 ASP.NET Core is a free, open-source web framework from Microsoft that offers high performance and cross-platform functonality for building web apps and services, mobile backends, and more.
 
-What are the advantages of ASP.NET Core?
+> What are the advantages of ASP.NET Core?
 Some benefits of ASP.NET Core include:
 
-It is an open-source framework
+> It is an open-source framework
 Easy to build cross-platform web apps
 It requires less coding, meaning easier maintenance
 High performance
@@ -54,10 +49,10 @@ Easily testable
 Who is this course for?
 Any and everyone who wants to learn ASP.NET Core to build high-performing, cross-platform applications.
 
-What will I learn in this course?
+> What will I learn in this course?
 This course will teach you the basics of ASP.NET Core, including:
 
-How to build an application with ASP.NET Core
+>How to build an application with ASP.NET Core
 How to work with a database
 Entity Framework
 
