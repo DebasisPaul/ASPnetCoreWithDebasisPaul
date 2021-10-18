@@ -27,3 +27,6 @@ Basic web development skills and familiarity with the C# language
 
 ---
 > Take your understanding of ASP.NET Core to the next level with the courses in this section by doing a deep dive on ASP.NET Core's built-in dependency injection framework, how the ASP.NET Core request lifecycle works and the extension points available to you for an MVC application.
+
+1. ASP.NET Core Fundamentals By Scott Allen
+> This course shows you all the features you'll need to build your first application with ASP.NET Core.
