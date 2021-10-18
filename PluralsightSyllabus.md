@@ -72,110 +72,110 @@ Scott has over 15 years of experience in commercial software development and is 
 > Hi. This is Scott Allen, and this is my ASP.NET Core Fundamentals course. ASP.NET Core is the latest web framework from Microsoft, and it's engineered to be fast, easy, and work across platforms. In this course, we'll build an application from scratch and see how to work with ASP.NET and databases to build a website of restaurant information. During the course, you'll learn about Razor Pages and API controllers. We'll be using the Entity Framework and create and execute Entity Framework migrations. We'll also see how to integrate client‑side libraries into ASP.NET Core and learn some of the behind‑the‑scenes internals. Along the way, you might even hear a story about my childhood. By the end of the course, you'll be ready to build your own applications using ASP.NET Core. But before we begin, make sure you're comfortable with the C# language, HTML, and have some general experience at web programming.
 
 > Course Overview
-Course Overview1m
-Overview of the 3.0 Upgrade2m
+- Course Overview1m
+- Overview of the 3.0 Upgrade2m
 
 > Drilling into Data
-Introduction0m
-Creating the New Project3m
-Editing Razor Pages4m
-Adding a Razor Page3m
-Using the Scaffolding Tools3m
-Injecting and Using Configuration4m
-Creating an Entity3m
-Building a Data Access Service4m
-Registering a Data Service3m
-Building a Page Model1m
-Displaying a Table of Restaurants2m
-Summary1m
+- Introduction0m
+- Creating the New Project3m
+- Editing Razor Pages4m
+- Adding a Razor Page3m
+- Using the Scaffolding Tools3m
+- Injecting and Using Configuration4m
+- Creating an Entity3m
+- Building a Data Access Service4m
+- Registering a Data Service3m
+- Building a Page Model1m
+- Displaying a Table of Restaurants2m
+- Summary1m
 
 > Working with Models and Model Binding
-Introduction0m
-Working with HTML Forms3m
-Building a Search Form2m
-Finding Restaurants by Name2m
-Binding to a Query String5m
-Using Model Binding and Tag Helpers5m
-Building a Detail Page4m
-Linking to the Details7m
-Specifying Page Routes4m
-Fetching Restaurants by ID2m
-Handling Bad Requests4m
-Summary0m
+- Introduction0m
+- Working with HTML Forms3m
+- Building a Search Form2m
+- Finding Restaurants by Name2m
+- Binding to a Query String5m
+- Using Model Binding and Tag Helpers5m
+- Building a Detail Page4m
+- Linking to the Details7m
+- Specifying Page Routes4m
+- Fetching Restaurants by ID2m
+- Handling Bad Requests4m
+- Summary0m
 
 > Editing Data with Razor Pages
-Introduction0m
-Creating the Restaurant Edit Page4m
-Building an Edit Form with Tag Helpers9m
-Model Binding an HTTP POST Operation6m
-Adding Validation Checks4m
-Using Model State and Showing Validation Errors5m
-Following the POST-GET-REDIRECT Pattern4m
-Building a Create Restaurant Page3m
-Adding Create to the Data Access Service2m
-Handling Create vs. Update Logic3m
-Confirming the Last Operation5m
-Summary0m
+- Introduction0m
+- Creating the Restaurant Edit Page4m
+- Building an Edit Form with Tag Helpers9m
+- Model Binding an HTTP POST Operation6m
+- Adding Validation Checks4m
+- Using Model State and Showing Validation Errors5m
+- Following the POST-GET-REDIRECT Pattern4m
+- Building a Create Restaurant Page3m
+- Adding Create to the Data Access Service2m
+- Handling Create vs. Update Logic3m
+- Confirming the Last Operation5m
+- Summary0m
 
 > Working with SQL Server and the Entity Framework Core
-Introduction0m
-Installing the Entity Framework3m
-Implementing an Entity Framework DbContext2m
-Using the Entity Framework Tools4m
-Using Other Databases and Tools3m
-Adding Connection Strings and Registering Services6m
-Adding Database Migrations6m
-Running Database Migrations3m
-Implementing a Data Access Service2m
-Saving and Commiting Data7m
-Modifying the Service Registration2m
-Summary0m
+- Introduction0m
+- Installing the Entity Framework3m
+- Implementing an Entity Framework DbContext2m
+- Using the Entity Framework Tools4m
+- Using Other Databases and Tools3m
+- Adding Connection Strings and Registering Services6m
+- Adding Database Migrations6m
+- Running Database Migrations3m
+- Implementing a Data Access Service2m
+- Saving and Commiting Data7m
+- Modifying the Service Registration2m
+- Summary0m
 
 > Building the User Interface
-Introduction0m
-Using Razor Layout Pages and Sections6m
-Implementing a Delete Restaurant Page Model5m
-Implementing the Delete Markup3m
-Using _ViewImports and _ViewStart Files5m
-Reusing Markup with Partial Views5m
-Rendering Partial Views3m
-Implementing a ViewComponent8m
-Rendering a ViewComponent5m
-Scaffolding a Complete Set of CRUD Pages3m
-Summary0m
+- Introduction0m
+- Using Razor Layout Pages and Sections6m
+- Implementing a Delete Restaurant Page Model5m
+- Implementing the Delete Markup3m
+- Using _ViewImports and _ViewStart Files5m
+- Reusing Markup with Partial Views5m
+- Rendering Partial Views3m
+- Implementing a ViewComponent8m
+- Rendering a ViewComponent5m
+- Scaffolding a Complete Set of CRUD Pages3m
+- Summary0m
 
 > Integrating Client-side JavaScript and CSS
-Introduction1m
-Serving Static Files and Content from wwwroot4m
-Using ASP.NET Core Environments5m
-Enforcing Validation on the Client6m
-Loading Restaurants from the Client4m
-Implementing an API Controller6m
-Using DataTables6m
-Managing Client Libraries Using npm and NodeJS8m
-Managing Production Scripts and Development Scripts4m
-Serving Files from the node_modules Directory5m
-Creating Sortable, Searchable Data Grids with DataTables5m
-Summary1m
+- Introduction1m
+- Serving Static Files and Content from wwwroot4m
+- Using ASP.NET Core Environments5m
+- Enforcing Validation on the Client6m
+- Loading Restaurants from the Client4m
+- Implementing an API Controller6m
+- Using DataTables6m
+- Managing Client Libraries Using npm and NodeJS8m
+- Managing Production Scripts and Development Scripts4m
+- Serving Files from the node_modules Directory5m
+- Creating Sortable, Searchable Data Grids with DataTables5m
+- Summary1m
 
 > Working with the Internals of ASP.NET Core
-Introduction1m
-Exploring the Application Entry Point6m
-Processing Summer Corn with the Allen Family6m
-Exploring the Application Middleware7m
-Building Custom Middleware8m
-Logging Application Messages5m
-Configuring the App Using the Default Web Host Builder6m
-Summary1m
+- Introduction1m
+- Exploring the Application Entry Point6m
+- Processing Summer Corn with the Allen Family6m
+- Exploring the Application Middleware7m
+- Building Custom Middleware8m
+- Logging Application Messages5m
+- Configuring the App Using the Default Web Host Builder6m
+- Summary1m
 
 > Deploying ASP.NET Core Web Applications
-Introduction1m
-Publishing Apps vs. Deploying Apps4m
-Using dotnet publish5m
-Using MSBuld to Execute npm install5m
-Building Self-contained Applications5m
-Deploying to a Web Server7m
-Exploring web.config and How IIS Hosting Works5m
-Setting up Automatic Entity Framework Migrations8m
-Connecting to a SQL Server Database7m
-Conclusion0m
+- Introduction1m
+- Publishing Apps vs. Deploying Apps4m
+- Using dotnet publish5m
+- Using MSBuld to Execute npm install5m
+- Building Self-contained Applications5m
+- Deploying to a Web Server7m
+- Exploring web.config and How IIS Hosting Works5m
+- Setting up Automatic Entity Framework Migrations8m
+- Connecting to a SQL Server Database7m
+- Conclusion0m
