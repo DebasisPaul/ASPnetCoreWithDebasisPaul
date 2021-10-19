@@ -82,6 +82,11 @@ Scott has over 15 years of experience in commercial software development and is 
 - [Tutorials Teacher](https://www.tutorialsteacher.com/core/dependency-injection-in-aspnet-core)
 - [W3School](https://www.w3schools.com/asp/default.asp)
 - [ASP.NET Core MVC Tutorial for Beginners](https://www.pragimtech.com/courses/asp-net-core-mvc-tutorial-for-beginners/)
+- [TutorialPoint](https://www.tutorialspoint.com/asp.net_core/index.htm)
+- [guru99](https://www.guru99.com/asp-net-tutorial.html)
+- [TekTutorialsHub](https://www.tektutorialshub.com/asp-net-core-tutorial/)
+- [Learn ASP.NET Core: Beginner to Advanced Course](https://www.dotnettricks.com/paths/become-asp-net-core-developer)
+- [LinkedInLearning](https://www.linkedin.com/learning/)
 
 # Books
 - ASP.NET Core in 24 Hours, Sams Teach Yourself
