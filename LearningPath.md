@@ -82,6 +82,10 @@ Scott has over 15 years of experience in commercial software development and is 
 - [Tutorials Teacher](https://www.tutorialsteacher.com/core/dependency-injection-in-aspnet-core)
 - [W3School](https://www.w3schools.com/asp/default.asp)
 
+# Books
+- ASP.NET Core in 24 Hours, Sams Teach Yourself
+- 
+
 > # Course Overview
 - Course Overview1m
 - Overview of the 3.0 Upgrade2m
