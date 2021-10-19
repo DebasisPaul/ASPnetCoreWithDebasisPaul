@@ -24,7 +24,6 @@
 <hr>
 
 - [LEARNING PATHS ASP.NET Core || PlurlSight](https://www.pluralsight.com/paths/aspnet-core)
-- [ASP.NET Core MVC Tutorial for Beginners](https://www.pragimtech.com/courses/asp-net-core-mvc-tutorial-for-beginners/)
 - [Introduction to ASP.NET Core Framework](https://dotnettutorials.net/lesson/introduction-to-asp-net-core/)
 - [ASP.NET Core Tutorials](https://www.tutorialsteacher.com/core)
 - [ASP.NET Interview Questions](https://www.javatpoint.com/asp-dot-net-interview-questions)
