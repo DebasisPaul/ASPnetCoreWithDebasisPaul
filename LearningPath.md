@@ -378,20 +378,20 @@ Summary
 0m 38s
 
 # 9. Adding Login Capabilities to the Site
-Module length:23m 26s
-Module Introduction
+> Module length:23m 26s
+*Module Introduction
 1m 1s
-Exploring ASP.NET Core Identity
+*Exploring ASP.NET Core Identity
 3m 45s
-Demo: Preparing the Site for ASP.NET Core Identity
+*Demo: Preparing the Site for ASP.NET Core Identity
 3m 25s
-Adding Authentication
+*Adding Authentication
 5m 7s
-Demo: Adding Login and Registration Functionality
+*Demo: Adding Login and Registration Functionality
 6m 6s
-Enabling Authorization
+*Enabling Authorization
 1m 52s
-Demo: Authorizing Users to Place an Order
+*Demo: Authorizing Users to Place an Order
 1m 24s
-Summary and Course Closing
+* Summary and Course Closing
 0m 43s
