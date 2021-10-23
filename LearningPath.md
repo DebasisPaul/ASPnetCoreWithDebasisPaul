@@ -1,7 +1,9 @@
-## PATHS
-> ASP.NET Core Authors: Scott Allen, Gill Cleeren, Eric Fisher, Shawn Wildermuth, Steve Gordon, Erik Dahl, Alex Wolf, Roland Guijt, Peter Kellner, Rag Dhiman
+# ASP.NET CORE SYLLABUS MODIFIED
 
-ASP.NET Core is Microsoft's modern, cross-platform framework for building web applications and web APIs. In this path, you will learn everything you need to know about building ASP.NET Core applications, from building web applications with Razor to creating APIs.
+---
+`ASP.NET Core Authors: Scott Allen, Gill Cleeren, Eric Fisher, Shawn Wildermuth, Steve Gordon, Erik Dahl, Alex Wolf, Roland Guijt, Peter Kellner, Rag Dhiman`
+
+`ASP.NET Core is Microsoft's modern, cross-platform framework for building web applications and web APIs. In this path, you will learn everything you need to know about building ASP.NET Core applications, from building web applications with Razor to creating APIs.`
 
 ## RELATED TOPICS
 - C#
@@ -10,7 +12,7 @@ ASP.NET Core is Microsoft's modern, cross-platform framework for building web ap
 - web developer
 - Entity Framework Core
 
-## What you will learn
+# What you will learn
 - Creating applications with Razor Pages
 - Creating applications using the MVC Framework
 - Building APIs with ASP.NET Core
@@ -20,10 +22,10 @@ ASP.NET Core is Microsoft's modern, cross-platform framework for building web ap
 - Different authentication strategies available for your application
 - Using SignalR to build real-time communication into your apps
 
-## Pre-requisites
+# Pre-requisites
 Basic web development skills and familiarity with the C# language
 
-## BEGINNER LEARNING PATH
+# BEGINNER LEARNING PATH
 
 ---
 > Take your understanding of ASP.NET Core to the next level with the courses in this section by doing a deep dive on ASP.NET Core's built-in dependency injection framework, how the ASP.NET Core request lifecycle works and the extension points available to you for an MVC application.
@@ -32,25 +34,25 @@ Basic web development skills and familiarity with the C# language
 > This course shows you all the features you'll need to build your first application with ASP.NET Core.
 
 ## Description
-> ASP.NET Core is the latest web framework from Microsoft, and is engineered to be fast, easy, and work across platforms. In this course, ASP.NET Core Fundamentals, you will build your first application with ASP.NET Core from scratch. First, you will learn how to work with a database to display and edit data. Then, you will explore middleware, view components, and database migrations with the Entity Framework. Finally, you will delve into building an API controller, and see how to work with client-side libraries. By the end of this course, you will have the skills and knowledge of ASP.NET Core needed to be productive in a typical business-oriented application.
+`ASP.NET Core is the latest web framework from Microsoft, and is engineered to be fast, easy, and work across platforms. In this course, ASP.NET Core Fundamentals, you will build your first application with ASP.NET Core from scratch. First, you will learn how to work with a database to display and edit data. Then, you will explore middleware, view components, and database migrations with the Entity Framework. Finally, you will delve into building an API controller, and see how to work with client-side libraries. By the end of this course, you will have the skills and knowledge of ASP.NET Core needed to be productive in a typical business-oriented application.`
 
 ## Course FAQ
-> What is ASP.NET Core?
+# What is ASP.NET Core?
 ASP.NET Core is a free, open-source web framework from Microsoft that offers high performance and cross-platform functonality for building web apps and services, mobile backends, and more.
 
-> What are the advantages of ASP.NET Core?
-`Some benefits of ASP.NET Core include:`
+# What are the advantages of ASP.NET Core?
+# Some benefits of ASP.NET Core include:
 - It is an open-source framework
 - Easy to build cross-platform web apps
 - It requires less coding, meaning easier maintenance
 - High performance
 - Easily testable
 
-> Who is this course for?
+# Who is this course for?
 Any and everyone who wants to learn ASP.NET Core to build high-performing, cross-platform applications.
 
-> What will I learn in this course?
-` This course will teach you the basics of ASP.NET Core, including:`
+# What will I learn in this course?
+# This course will teach you the basics of ASP.NET Core, including:
 - How to build an application with ASP.NET Core
 - How to work with a database
 - Entity Framework
@@ -61,17 +63,17 @@ Any and everyone who wants to learn ASP.NET Core to build high-performing, cross
 - Client-side libraries
 - Much more
 
-> Are there prerequisites to this course?
+# Are there prerequisites to this course?
 Before diving into ASP.NET Core, you should be comfortable with C# programming, HTML, and have some general experience at web programming.
 
-> Scott Allen
+# Scott Allen
 About the author
 Scott has over 15 years of experience in commercial software development and is a frequent speaker at national conferences, and local user groups. Scott is a Microsoft MVP and has authored books on several Microsoft technologies, including ASP.NET, C#, and Windows Workflow.
 
-## Course Overview
+# Course Overview
 > Hi. This is Scott Allen, and this is my ASP.NET Core Fundamentals course. ASP.NET Core is the latest web framework from Microsoft, and it's engineered to be fast, easy, and work across platforms. In this course, we'll build an application from scratch and see how to work with ASP.NET and databases to build a website of restaurant information. During the course, you'll learn about Razor Pages and API controllers. We'll be using the Entity Framework and create and execute Entity Framework migrations. We'll also see how to integrate client‑side libraries into ASP.NET Core and learn some of the behind‑the‑scenes internals. Along the way, you might even hear a story about my childhood. By the end of the course, you'll be ready to build your own applications using ASP.NET Core. But before we begin, make sure you're comfortable with the C# language, HTML, and have some general experience at web programming.
 
-> # READING
+# READING
 - .[Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/DebasisPaul/eShopOnWeb)
 - [ASP.NET Core Developer Roadmap](https://github.com/DebasisPaul/AspNetCore-Developer-Roadmap)
 - [Training Tutorial](https://github.com/DebasisPaul/training-tutorials/blob/master/content/asp.net/getting-started/README.md)
@@ -92,11 +94,11 @@ Scott has over 15 years of experience in commercial software development and is 
 - ASP.NET Core in 24 Hours, Sams Teach Yourself
 
 
-> # Course Overview
+# Course Overview
 - Course Overview1m
 - Overview of the 3.0 Upgrade2m
 
-> # Drilling into Data
+# Drilling into Data
 - Introduction0m
 - Creating the New Project3m
 - Editing Razor Pages4m
@@ -110,7 +112,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Displaying a Table of Restaurants2m
 - Summary1m
 
-> # Working with Models and Model Binding
+# Working with Models and Model Binding
 - Introduction0m
 - Working with HTML Forms3m
 - Building a Search Form2m
@@ -124,7 +126,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Handling Bad Requests4m
 - Summary0m
 
-> # Editing Data with Razor Pages
+# Editing Data with Razor Pages
 - Introduction0m
 - Creating the Restaurant Edit Page4m
 - Building an Edit Form with Tag Helpers9m
@@ -138,7 +140,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Confirming the Last Operation5m
 - Summary0m
 
-> # Working with SQL Server and the Entity Framework Core
+# Working with SQL Server and the Entity Framework Core
 - Introduction0m
 - Installing the Entity Framework3m
 - Implementing an Entity Framework DbContext2m
@@ -152,7 +154,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Modifying the Service Registration2m
 - Summary0m
 
-> # Building the User Interface
+# Building the User Interface
 - Introduction0m
 - Using Razor Layout Pages and Sections6m
 - Implementing a Delete Restaurant Page Model5m
@@ -165,7 +167,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Scaffolding a Complete Set of CRUD Pages3m
 - Summary0m
 
-> # Integrating Client-side JavaScript and CSS
+# Integrating Client-side JavaScript and CSS
 - Introduction1m
 - Serving Static Files and Content from wwwroot4m
 - Using ASP.NET Core Environments5m
@@ -210,13 +212,14 @@ In this course, you'll learn how to build a complete application with ASP.NET Co
 * LevelBeginner 
 * UpdatedDec 14, 2020 
 * Duration4h 24m 
+
 # Description
-ASP.NET Core 3.0 and ASP.NET Core 5.0 contain many new features allowing developers to more easily build apps with ASP.NET Core MVC. In this course, Building Web Applications with ASP.NET Core MVC, you'll learn how to build a fully working modern web application using ASP.NET Core 3/5 MVC. First, you'll learn how an ASP.NET Core MVC project is configured. Next, you'll find out how to build several pages that connect with a database using Entity Framework Core. To build these pages, you'll learn about Razor, tag helpers, layouts and view components. Finally, you'll understand how to authenticate users using ASP.NET Identity. When you're finished with this course, you'll have the skills and knowledge of ASP.NET Core MVC to build real-world web applications. This course is updated to be compatible with .NET 5.0.
+`ASP.NET Core 3.0 and ASP.NET Core 5.0 contain many new features allowing developers to more easily build apps with ASP.NET Core MVC. In this course, Building Web Applications with ASP.NET Core MVC, you'll learn how to build a fully working modern web application using ASP.NET Core 3/5 MVC. First, you'll learn how an ASP.NET Core MVC project is configured. Next, you'll find out how to build several pages that connect with a database using Entity Framework Core. To build these pages, you'll learn about Razor, tag helpers, layouts and view components. Finally, you'll understand how to authenticate users using ASP.NET Identity. When you're finished with this course, you'll have the skills and knowledge of ASP.NET Core MVC to build real-world web applications. This course is updated to be compatible with .NET 5.0.`
 
 
-Gill Cleeren
-About the author
-Gill Cleeren is a Microsoft Regional Director, MVP and Pluralsight author. Gill is a freelance solution architect living in Belgium. He focuses on web and mobile development and loves Xamarin. He's also a frequent speaker at many international conferences. Gill also founded Techorama, the biggest IT conference in Belgium and the Netherlands. You can find his website at www.snowball.be.
+# Gill Cleeren
+# About the author
+`Gill Cleeren is a Microsoft Regional Director, MVP and Pluralsight author. Gill is a freelance solution architect living in Belgium. He focuses on web and mobile development and loves Xamarin. He's also a frequent speaker at many international conferences. Gill also founded Techorama, the biggest IT conference in Belgium and the Netherlands. You can find his website at www.snowball.be.`
 
 ## Section Introduction Transcripts
 # Course Overview
@@ -226,10 +229,10 @@ Gill Cleeren is a Microsoft Regional Director, MVP and Pluralsight author. Gill 
 # Table of Contents (Notes)
 
 # 1. Course Overview
-Module length:2m 23s
+> Module length:2m 23s
 
 # 2. Course Introduction
-Module length:18m 52s (completed)
+> Module length:18m 52s (completed)
 * Module Introduction
 1m 54s
 * What Will You Learn from This Course?
@@ -246,7 +249,7 @@ Module length:18m 52s (completed)
 0m 54s
 
 # 3. Setting up an MVC Application
-Module length:25m 58s
+> Module length:25m 58s
 * Module Introduction
 1m 1s
 * Exploring the Project Structure
@@ -261,7 +264,7 @@ Module length:25m 58s
 0m 52s
 
 # 4. Creating the List Page
-Module length:55m 29s
+> Module length:55m 29s
 * Module Introduction
 2m 18s
 * Demo: Looking at the Final Page
@@ -292,7 +295,7 @@ Module length:55m 29s
 0m 46s
 
 # 5. Working with Real Data Using Entity Framework Core
-Module length:31m 58s
+> Module length:31m 58s
 * Module Introduction
 1m 35s
 * Hello EF Core
@@ -317,7 +320,7 @@ Module length:31m 58s
 0m 47s
 
 # 6. Adding Navigation to the Site
-Module length:25m 36s
+> Module length:25m 36s
 * Module Introduction
 1m 0s
 * Understanding Routing in ASP.NET Core MVC
@@ -332,7 +335,7 @@ Module length:25m 36s
 0m 36s
 
 # 7. Improving the Views in the Application
-Module length:48m 54s
+> Module length:48m 54s
 * Module Introduction
 1m 14s
 * Using Partial Views
@@ -357,7 +360,7 @@ Module length:48m 54s
 1m 11s
 
 # 8. Creating an Order Form
-Module length:30m 14s
+> Module length:30m 14s
 * Module Introduction
 1m 13s
 * Using Tag Helpers to Create the Form
