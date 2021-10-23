@@ -229,169 +229,167 @@ Gill Cleeren is a Microsoft Regional Director, MVP and Pluralsight author. Gill 
 Module length:2m 23s
 
 # 2. Course Introduction
-Module length:18m 52s
-
-(completed)
-Module Introduction
+Module length:18m 52s (completed)
+* Module Introduction
 1m 54s
-What Will You Learn from This Course?
+* What Will You Learn from This Course?
 4m 30s
-Demo: Looking at the Finished Application
+* Demo: Looking at the Finished Application
 1m 36s
-What Is ASP.NET Core?
+* What Is ASP.NET Core?
 7m 11s
-Getting Your Machine Ready
+* Getting Your Machine Ready
 1m 17s
-Demo: Getting Your Machine Ready
+* Demo: Getting Your Machine Ready
 1m 27s
-Summary
+* Summary
 0m 54s
 
 # 3. Setting up an MVC Application
 Module length:25m 58s
-Module Introduction
+* Module Introduction
 1m 1s
-Exploring the Project Structure
+* Exploring the Project Structure
 2m 5s
-Demo: Exploring the Project Structure
+* Demo: Exploring the Project Structure
 3m 12s
-Site Configuration
+* Site Configuration
 10m 49s
-Demo: Site Configuration
+* Demo: Site Configuration
 7m 56s
-Summary
+* Summary
 0m 52s
 
 # 4. Creating the List Page
 Module length:55m 29s
-Module Introduction
+* Module Introduction
 2m 18s
-Demo: Looking at the Final Page
+* Demo: Looking at the Final Page
 0m 30s
-Hello MVC
+* Hello MVC
 2m 46s
-Creating the Model and the Repository
+* Creating the Model and the Repository
 6m 24s
-Creating the Controller
+* Creating the Controller
 6m 14s
-Demo: Creating the Controller
+* Demo: Creating the Controller
 3m 10s
-Demo: Creating the Controller
+* Demo: Creating the Controller
 4m 19s
-Adding the View
+* Adding the View
 7m 26s
-Demo: Creating the View and the ViewModel
+* Demo: Creating the View and the ViewModel
 8m 26s
-Adding Different View Files
+* Adding Different View Files
 2m 15s
-Demo: Adding a Layout, ViewImports and ViewStart
+* Demo: Adding a Layout, ViewImports and ViewStart
 4m 17s
-Styling the View
+* Styling the View
 1m 51s
-Demo: Styling the View
+* Demo: Styling the View
 4m 43s
-Summary
+* Summary
 0m 46s
 
 # 5. Working with Real Data Using Entity Framework Core
 Module length:31m 58s
-Module Introduction
+* Module Introduction
 1m 35s
-Hello EF Core
+* Hello EF Core
 3m 48s
-Adding EF Core to the Application
+* Adding EF Core to the Application
 3m 18s
-Demo: Adding the Packages and Creating the Context
+* Demo: Adding the Packages and Creating the Context
 6m 39s
-Querying and Modifying Data
+* Querying and Modifying Data
 1m 47s
-Demo: Creating the Real Repository
+* Demo: Creating the Real Repository
 4m 58s
-Creating and Initializing the Database
+* Creating and Initializing the Database
 1m 55s
-Demo: Creating and Initializing the Database
+* Demo: Creating and Initializing the Database
 4m 53s
-Modifying the Model
+* Modifying the Model
 0m 46s
-Demo: Updating the Database
+* Demo: Updating the Database
 1m 27s
-Summary
+* Summary
 0m 47s
 
 # 6. Adding Navigation to the Site
 Module length:25m 36s
-Module Introduction
+* Module Introduction
 1m 0s
-Understanding Routing in ASP.NET Core MVC
+* Understanding Routing in ASP.NET Core MVC
 5m 39s
-Configuring the Routing System
+* Configuring the Routing System
 4m 23s
-Navigation with Tag Helpers
+* Navigation with Tag Helpers
 5m 13s
-Demo: Adding Navigation
+* Demo: Adding Navigation
 8m 41s
-Summary
+* Summary
 0m 36s
 
 # 7. Improving the Views in the Application
 Module length:48m 54s
-Module Introduction
+* Module Introduction
 1m 14s
-Using Partial Views
+* Using Partial Views
 2m 46s
-Demo: Working with Partial Views
+* Demo: Working with Partial Views
 2m 56s
-Demo: Creating the Home Page
+* Demo: Creating the Home Page
 4m 36s
-Creating the Shopping Cart
+* Creating the Shopping Cart
 2m 12s
-Demo: Creating the Shopping Cart
+* Demo: Creating the Shopping Cart
 14m 43s
-Adding View Components
+* Adding View Components
 4m 27s
-Demo: Adding View Components
+* Demo: Adding View Components
 7m 34s
-Creating a Custom Tag Helper
+* Creating a Custom Tag Helper
 2m 28s
-Demo: Creating the Email Tag Helper
+* Demo: Creating the Email Tag Helper
 4m 42s
-Summary
+* Summary
 1m 11s
 
 # 8. Creating an Order Form
 Module length:30m 14s
-Module Introduction
+* Module Introduction
 1m 13s
-Using Tag Helpers to Create the Form
+* Using Tag Helpers to Create the Form
 3m 25s
-Demo: Creating an Order Form
+* Demo: Creating an Order Form
 8m 7s
-Understanding Model Binding
+* Understanding Model Binding
 3m 30s
-Demo: Using Model Binding
+* Demo: Using Model Binding
 4m 31s
-Adding Validation
+* Adding Validation
 5m 39s
-Demo: Adding Validation to the Form
+* Demo: Adding Validation to the Form
 3m 9s
-Summary
+* Summary
 0m 38s
 
 # 9. Adding Login Capabilities to the Site
 > Module length:23m 26s
-*Module Introduction
+* Module Introduction
 1m 1s
-*Exploring ASP.NET Core Identity
+* Exploring ASP.NET Core Identity
 3m 45s
-*Demo: Preparing the Site for ASP.NET Core Identity
+* Demo: Preparing the Site for ASP.NET Core Identity
 3m 25s
-*Adding Authentication
+* Adding Authentication
 5m 7s
-*Demo: Adding Login and Registration Functionality
+* Demo: Adding Login and Registration Functionality
 6m 6s
-*Enabling Authorization
+* Enabling Authorization
 1m 52s
-*Demo: Authorizing Users to Place an Order
+* Demo: Authorizing Users to Place an Order
 1m 24s
 * Summary and Course Closing
 0m 43s
