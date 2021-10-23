@@ -90,7 +90,7 @@ Scott has over 15 years of experience in commercial software development and is 
 
 # Books
 - ASP.NET Core in 24 Hours, Sams Teach Yourself
-- 
+
 
 > # Course Overview
 - Course Overview1m
@@ -200,3 +200,14 @@ Scott has over 15 years of experience in commercial software development and is 
 - Setting up Automatic Entity Framework Migrations8m
 - Connecting to a SQL Server Database7m
 - Conclusion0m
+
+> Building Web Applications with ASP.NET Core MVC By Gill Cleeren
+In this course, you'll learn how to build a complete application with ASP.NET Core 3.0/5.0 MVC using Visual Studio 2019 in a practical, hands-on way.
+
+## Course info
+`Rating (400)`
+LevelBeginner 
+UpdatedDec 14, 2020 
+Duration4h 24m 
+`Description`
+> ASP.NET Core 3.0 and ASP.NET Core 5.0 contain many new features allowing developers to more easily build apps with ASP.NET Core MVC. In this course, Building Web Applications with ASP.NET Core MVC, you'll learn how to build a fully working modern web application using ASP.NET Core 3/5 MVC. First, you'll learn how an ASP.NET Core MVC project is configured. Next, you'll find out how to build several pages that connect with a database using Entity Framework Core. To build these pages, you'll learn about Razor, tag helpers, layouts and view components. Finally, you'll understand how to authenticate users using ASP.NET Identity. When you're finished with this course, you'll have the skills and knowledge of ASP.NET Core MVC to build real-world web applications. This course is updated to be compatible with .NET 5.0.
