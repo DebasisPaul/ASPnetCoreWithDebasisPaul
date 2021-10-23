@@ -202,7 +202,7 @@ Scott has over 15 years of experience in commercial software development and is 
 - Conclusion0m
 
 ---
-> Building Web Applications with ASP.NET Core MVC By Gill Cleeren
+## Building Web Applications with ASP.NET Core MVC By Gill Cleeren
 In this course, you'll learn how to build a complete application with ASP.NET Core 3.0/5.0 MVC using Visual Studio 2019 in a practical, hands-on way.
 
 # Course info
