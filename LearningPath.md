@@ -396,3 +396,61 @@ Scott has over 15 years of experience in commercial software development and is 
 
 # Books
 - ASP.NET Core in 24 Hours, Sams Teach Yourself
+
+- [ASP.NET Core || ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/DebasisPaul/aspnetcore)
+- [Microsoft ASPNET Core Workshop- Demian Edwards](https://github.com/DebasisPaul/aspnetcore-workshop)
+- [Microsoft Virtual Academy MVA- LadyNaggaga](https://github.com/DebasisPaul/ASP.NETCoreMVA)
+- [ASP.NET Core for Beginners - Workshop - Scott Hanselman](https://github.com/DebasisPaul/aspnetcore-for-beginners)
+- [ASP.NET Core - App Building Workshop - Scott Hanselman](https://github.com/DebasisPaul/aspnetcore-app-workshop)
+- [Documentation for ASP.NET Core](https://github.com/DebasisPaul/AspNetCore.Docs)
+- [Documentation for ASP.NET 4.x](https://github.com/DebasisPaul/AspNetDocs)
+- [Roadmap to becoming an ASP.NET Core developer in 2021](https://github.com/DebasisPaul/AspNetCore-Developer-Roadmap)
+- [Getting started tutorials for C# and ASP.NET](https://github.com/DebasisPaul/training-tutorials)
+- [Web Camp Jon Galloway](https://github.com/DebasisPaul/WebCampTrainingKit)
+- [Samples for ASP.NET Core 5.0](https://github.com/DebasisPaul/practical-aspnetcore)
+- [Web Development for Beginners - A Curriculum](https://github.com/DebasisPaul/Web-Dev-For-Beginners)
+- [ASP.NET API Versioning](https://github.com/DebasisPaul/aspnet-api-versioning)
+- [ASP.NET Core Workshop - Scott Hanselman](https://github.com/DebasisPaul/aspnetcore-concepts-workshop)
+- [📚 Freely available programming books](https://github.com/DebasisPaul/free-programming-books)
+- [A simple ASP.NET Core wiki that we are working on during live coding streams](https://github.com/DebasisPaul/CoreWiki)
+- [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/DebasisPaul/eShopOnWeb)
+- [Reference documentation for ASP.NET Core APIs](https://github.com/DebasisPaul/AspNetApiDocs)
+- [ASP.NET Core Tooling](https://github.com/DebasisPaul/aspnetcore-tooling)
+- [eShopModernizing - Modernizing ASP.NET Web apps (MVC and WebForms) and N-Tier apps (WCF + WinForms) with Windows Containers and Azure](https://github.com/DebasisPaul/eShopModernizing)
+- [Tutorial - Enable your Web Apps to sign-in users and call APIs with the Microsoft identity platform for developers](https://github.com/DebasisPaul/active-directory-aspnetcore-webapp-openidconnect-v2)
+- [ASP.NET Core Diagnostic Scenarios](https://github.com/DebasisPaul/AspNetCoreDiagnosticScenarios)
+- [Announcements](https://github.com/DebasisPaul/Announcements)
+<hr>
+
+- [LEARNING PATHS ASP.NET Core || PlurlSight](https://www.pluralsight.com/paths/aspnet-core)
+- [Introduction to ASP.NET Core Framework](https://dotnettutorials.net/lesson/introduction-to-asp-net-core/)
+- [ASP.NET Core Tutorials](https://www.tutorialsteacher.com/core)
+- [ASP.NET Interview Questions](https://www.javatpoint.com/asp-dot-net-interview-questions)
+- [Basic ASP.NET Interview Questions](https://www.interviewbit.com/asp-net-interview-questions)
+- [Top 30+ ASP.NET Interview Questions and Answers](https://www.dotnettricks.com/learn/aspnet/top-20-aspnet-interview-questions-and-answers)
+- [50 ASP.NET Interview Questions and Answers (PDF) in 2021](https://www.guru99.com/asp-net-interview-questions-answers.html)
+- [ASP and ASP.NET Tutorials](https://www.w3schools.com/asp/default.asp)
+<hr>
+
+ASP.NET Resources
+- [Learn ASP.NET](https://dotnet.microsoft.com/learn/aspnet)
+- [Gitter ASP.NET](https://gitter.im/aspnet/Home)
+- [ASP.NET Community Blogs](https://weblogs.asp.net/)
+- [Support lifecycle for ASP.NET web stack](https://docs.microsoft.com/en-us/troubleshoot/aspnet/support-lifecycle-web-stack?WT.mc_id=dotnet-35129-website)
+- [ASP.NET documentation](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
+- [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
+- [ASP.NET Support Policy](https://dotnet.microsoft.com/platform/support/policy/aspnet)
+- [ASP.NET Blog](https://devblogs.microsoft.com/aspnet/)
+- [ASP.NET || Github](https://github.com/aspnet)
+- [ASP.NET Core 101](https://channel9.msdn.com/Series/CSharp-101/?WT.mc_id=dotnet-22477-jasingl)
+- [Tutorial: Create a Razor Pages web app with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-6.0)
+- [Get started with ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
+- [Migrating ASP.NET MVC Applications to Windows Containers](https://docs.microsoft.com/en-us/aspnet/mvc/overview/deployment/docker-aspnetmvc)
+- [ASP.NET Core Blazor supported platforms](https://docs.microsoft.com/en-us/aspnet/core/blazor/supported-platforms?view=aspnetcore-5.0)
+
+---
+
+- [Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
+- [Entity Framework || Github](https://github.com/dotnet/efcore)
+
+## Udemy BhrugenPatel .NetMastery WebPage [Link](https://www.dotnetmastery.com/)
