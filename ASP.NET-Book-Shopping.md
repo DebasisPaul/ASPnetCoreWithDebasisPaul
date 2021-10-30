@@ -20,14 +20,3 @@ Best Sellers Rank: #102,699 in Books (See Top 100 in Books)
 #257 in Computer Programming Languages
 Customer Reviews: 4.6 out of 5 stars    69 ratings
 
-4. [Pro ASP.NET MVC 5 (Expert's Voice in ASP.Net) 5th ed. Edition](https://books.google.com.bd/books?id=ZqZ4AgAAQBAJ&printsec=frontcover&dq=Pro+ASP.NET+MVC+5+(Expert%27s+Voice+in+ASP.Net)+5th+ed.+Edition&hl=en&sa=X&redir_esc=y#v=onepage&q&f=false)
-Best Sellers Rank: #318,800 in Books (See Top 100 in Books)
-#25 in ASP.NET Programming
-#75 in C# Programming (Books)
-#76 in Microsoft .NET
-Customer Reviews: 4.3 out of 5 stars    208 ratings
-
-## Google Book Library
-- [Pro ASP.NET Core MVC By ADAM FREEMAN](https://books.google.com.bd/books?id=iEQWDQAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
-- [Beginning ASP.NET for Visual Studio 2015](https://books.google.com.bd/books?id=TEs1CAAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
-- [Professional ASP.NET Design Patterns By Scott Millett](https://books.google.com.bd/books?id=-oun5phKEhgC&printsec=frontcover#v=onepage&q&f=false)
